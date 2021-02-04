@@ -1,0 +1,2 @@
+C:\Users\malac\source\repos\C++ConsoleGames\Debug\C++ConsoleGames.exe
+C:\Users\malac\source\repos\C++ConsoleGames\Debug\C++ConsoleGames.pdb
